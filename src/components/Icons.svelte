@@ -2,7 +2,7 @@
     export let icon;
 
     const icons = {
-        trashbin: "https://img.icons8.com/material-outlined/24/000000/trash--v1.png",
+        trashbin: "trash.png",
         test: "/favicon.png",
     }
 </script>
